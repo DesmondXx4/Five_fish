@@ -15,7 +15,7 @@
   
   
 
-![2048的logo](pic/2048.jpg)
+![2048的logo](Demo1/pic/2048.jpg)
   
     
     
