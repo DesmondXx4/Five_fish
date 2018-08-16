@@ -1,0 +1,9 @@
+D:\VS编程\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\VS编程\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\VS编程\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\VS编程\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\VS编程\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\VS编程\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\VS编程\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\VS编程\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\VS编程\Calculator\Calculator\obj\Debug\Calculator.pdb
